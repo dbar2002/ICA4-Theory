@@ -1,3 +1,8 @@
+//Duncan Barnes
+//Katie El Fattal
+//Nadia Martinez
+//George Ghandour
+
 import java.util.Arrays;
 
 public class Matrix<T> {
